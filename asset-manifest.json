@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/nucamp-react-project/static/css/main.050523cc.chunk.css",
-    "main.js": "/nucamp-react-project/static/js/main.ffa6f85b.chunk.js",
-    "main.js.map": "/nucamp-react-project/static/js/main.ffa6f85b.chunk.js.map",
+    "main.css": "/nucamp-react-project/static/css/main.f2b26304.chunk.css",
+    "main.js": "/nucamp-react-project/static/js/main.e63f2468.chunk.js",
+    "main.js.map": "/nucamp-react-project/static/js/main.e63f2468.chunk.js.map",
     "runtime-main.js": "/nucamp-react-project/static/js/runtime-main.66d79b62.js",
     "runtime-main.js.map": "/nucamp-react-project/static/js/runtime-main.66d79b62.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/nucamp-react-project/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.3d598669.chunk.js": "/nucamp-react-project/static/js/2.3d598669.chunk.js",
-    "static/js/2.3d598669.chunk.js.map": "/nucamp-react-project/static/js/2.3d598669.chunk.js.map",
+    "static/css/2.93759992.chunk.css": "/nucamp-react-project/static/css/2.93759992.chunk.css",
+    "static/js/2.c93ed719.chunk.js": "/nucamp-react-project/static/js/2.c93ed719.chunk.js",
+    "static/js/2.c93ed719.chunk.js.map": "/nucamp-react-project/static/js/2.c93ed719.chunk.js.map",
     "index.html": "/nucamp-react-project/index.html",
-    "precache-manifest.372b32ee6c1e8817da513bc9718d0641.js": "/nucamp-react-project/precache-manifest.372b32ee6c1e8817da513bc9718d0641.js",
+    "precache-manifest.c4f7a1020b3728f4ad08fa32cf0d25f4.js": "/nucamp-react-project/precache-manifest.c4f7a1020b3728f4ad08fa32cf0d25f4.js",
     "service-worker.js": "/nucamp-react-project/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/nucamp-react-project/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.050523cc.chunk.css.map": "/nucamp-react-project/static/css/main.050523cc.chunk.css.map",
-    "static/js/2.3d598669.chunk.js.LICENSE.txt": "/nucamp-react-project/static/js/2.3d598669.chunk.js.LICENSE.txt"
+    "static/css/2.93759992.chunk.css.map": "/nucamp-react-project/static/css/2.93759992.chunk.css.map",
+    "static/css/main.f2b26304.chunk.css.map": "/nucamp-react-project/static/css/main.f2b26304.chunk.css.map",
+    "static/js/2.c93ed719.chunk.js.LICENSE.txt": "/nucamp-react-project/static/js/2.c93ed719.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/nucamp-react-project/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.66d79b62.js",
-    "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.3d598669.chunk.js",
-    "static/css/main.050523cc.chunk.css",
-    "static/js/main.ffa6f85b.chunk.js"
+    "static/css/2.93759992.chunk.css",
+    "static/js/2.c93ed719.chunk.js",
+    "static/css/main.f2b26304.chunk.css",
+    "static/js/main.e63f2468.chunk.js"
   ]
 }
