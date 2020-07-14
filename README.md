@@ -19,3 +19,9 @@ $ npm i gh-pages
       . . .
   },
 ```
+
+2. init-config
+
+```bash
+$ npm i bootstrap reactstrap react-popper
+```
